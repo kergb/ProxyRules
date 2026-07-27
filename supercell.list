@@ -1,1 +1,6 @@
-host-suffix, supercell.com
+host, inventory.mtech.supercell.com
+host, report.mkt.supercell.com
+host, init.mkt.supercell.com
+host, cdn.id.supercell.com
+ip-cidr, 18.166.152.35/32
+host, id.supercell.com
