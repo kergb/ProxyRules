@@ -1,8 +1,8 @@
 host, boxjs.com
 host-keyword, github
-#host, missav.ai
-#host, missav.ws
-#host, missav.live
+host, missav.ai
+host, missav.ws
+host, missav.live
 host-suffix, telegram.org
 host-suffix, t.me
 host-suffix, telegram.me
