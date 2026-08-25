@@ -1,6 +1,10 @@
-host, inventory.mtech.supercell.com
-host, report.mkt.supercell.com
-host, init.mkt.supercell.com
-host, cdn.id.supercell.com
-ip-cidr, 18.166.152.35/32
 host, id.supercell.com
+host, id.supercell.com
+host, cdn.supercell.com
+ip-cidr, 18.166.152.35/32
+host, cdn.id.supercell.com
+host, game.boombeachgame.com
+host, init.mkt.supercell.com
+host, report.mkt.supercell.com
+host, security.id.supercell.com
+host, inventory.mtech.supercell.com
