@@ -11,6 +11,4 @@
 # lovekey 账户
 ^https://sea.api.lovekeyboard.com/v2/account url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/lovekey.js
 
-
-[mitm]
 hostname = sea.api.lovekeyboard.com
