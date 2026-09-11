@@ -1,14 +1,14 @@
 #破解lovekey键盘
 #lovekey 聊天
-^https://sea.api.lovekeyboard.com/v1/chat/keyboard-stream-msg url script-request-header 
+^https://sea.api.lovekeyboard.com/v1/chat/keyboard-stream-msg url script-request-header https://raw.githubusercontent.com/kergb/QuantumultX/refs/heads/main/lovekey.js 
 
 # lovekey 开场白
-^https://sea.api.lovekeyboard.com/v1/chat/keyboard-ow-msg url script-request-header 
+^https://sea.api.lovekeyboard.com/v1/chat/keyboard-ow-msg url script-request-header https://raw.githubusercontent.com/kergb/QuantumultX/refs/heads/main/lovekey.js
 
 # lovekey 超级对话
-^https://sea.api.lovekeyboard.com/v1/chat/stream_super_msg url script-request-header 
+^https://sea.api.lovekeyboard.com/v1/chat/stream_super_msg url script-request-header https://raw.githubusercontent.com/kergb/QuantumultX/refs/heads/main/lovekey.js
 
 # lovekey 账户
-^https://sea.api.lovekeyboard.com/v2/account url script-response-body 
+^https://sea.api.lovekeyboard.com/v2/account url script-response-body https://raw.githubusercontent.com/kergb/QuantumultX/refs/heads/main/lovekey.js
 
 hostname = sea.api.lovekeyboard.com
